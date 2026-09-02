@@ -1,0 +1,20 @@
+========================================
+PROJE ADI: MEF_HVAC_KANTIN_PROJESI
+TARIH: 2026-08-24
+========================================
+
+--- MIMARI VERILER ---
+MAHAL_KODU: KNT-01
+Genişlik: 28.5
+Uzunluk: 12.0
+Yükseklik: 4.0
+
+--- TESISAT VERILERI ---
+Taze_Hava_Katsayisi_ACH: 8
+Secilen_Ana_Kanal_Capi: 400
+Boru_Uzunlugu: 35
+Menfez_Sayisi: 5
+
+========================================
+NOT: Bu dosya otomatik analiz sistemi testi için oluşturulmuştur.
+========================================

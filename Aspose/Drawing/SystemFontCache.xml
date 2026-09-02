@@ -1,0 +1,1526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FontFamilies>
+    <changed>2026-08-13T02:51:55Z</changed>
+    <Family name="Apple SD Gothic Neo">
+        <Font style="Regular" type="TTF" name="Apple SD Gothic Neo Regular" localizedFamilyNames="Apple SD »êµ¹°íµñ Neo" path="/System/Library/Fonts/AppleSDGothicNeo.ttc" offset="96" />
+        <Font style="Bold" type="TTF" name="Apple SD Gothic Neo Bold" localizedFamilyNames="Apple SD »êµ¹°íµñ Neo" path="/System/Library/Fonts/AppleSDGothicNeo.ttc" offset="1704" />
+    </Family>
+    <Family name=".Apple SD Gothic NeoI">
+        <Font style="Regular" type="TTF" name=".Apple SD Gothic NeoI Regular" localizedFamilyNames="Apple SD »êµ¹°íµñ Neo" path="/System/Library/Fonts/AppleSDGothicNeo.ttc" offset="364" />
+        <Font style="Bold" type="TTF" name=".Apple SD Gothic NeoI Bold" localizedFamilyNames="Apple SD »êµ¹°íµñ Neo" path="/System/Library/Fonts/AppleSDGothicNeo.ttc" offset="1972" />
+    </Family>
+    <Family name="Menlo">
+        <Font style="Regular" type="TTF" name="Menlo Regular" localizedFamilyNames="" path="/System/Library/Fonts/Menlo.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Menlo Italic" localizedFamilyNames="" path="/System/Library/Fonts/Menlo.ttc" offset="608" />
+        <Font style="Bold" type="TTF" name="Menlo Bold" localizedFamilyNames="" path="/System/Library/Fonts/Menlo.ttc" offset="324" />
+        <Font style="Bold Italic" type="TTF" name="Menlo Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Menlo.ttc" offset="892" />
+    </Family>
+    <Family name="Heiti TC">
+        <Font style="Medium" type="TTF" name="Heiti TC Medium" localizedFamilyNames="黑體-繁;黒体-繁;Heiti-번체;黑体-繁" path="/System/Library/Fonts/STHeiti Medium.ttc" offset="32" />
+    </Family>
+    <Family name="Heiti SC">
+        <Font style="Medium" type="TTF" name="Heiti SC Medium" localizedFamilyNames="黑體-簡;黒体-簡;Heiti-간체;黑体-简" path="/System/Library/Fonts/STHeiti Medium.ttc" offset="364" />
+    </Family>
+    <Family name="Symbol">
+        <Font style="Regular" type="TTF" name="Symbol" localizedFamilyNames="" path="/System/Library/Fonts/Symbol.ttf" offset="0" />
+    </Family>
+    <Family name="Geneva">
+        <Font style="Regular" type="TTF" name="Geneva" localizedFamilyNames="" path="/System/Library/Fonts/Geneva.ttf" offset="0" />
+    </Family>
+    <Family name="Hiragino Sans GB">
+        <Font style="W3" type="TTF" name="Hiragino Sans GB W3" localizedFamilyNames="qMmpS ÈÌ¶;¥V«C¶ÂÅéÂ²Åé¤¤¤å;¶¬ÇàºÚÌå¼òÌåÖÐÎÄ;冬青黑體簡體中文 W3;ヒラギノ角ゴ 簡体中文 W3;冬青黑体简体中文 W3;冬青黑體簡體中文 W3" path="/System/Library/Fonts/Hiragino Sans GB.ttc" offset="40" />
+    </Family>
+    <Family name=".Hiragino Sans GB Interface W3">
+        <Font style="Regular" type="TTF" name=".Hiragino Sans GB Interface W3" localizedFamilyNames="" path="/System/Library/Fonts/Hiragino Sans GB.ttc" offset="308" />
+    </Family>
+    <Family name=".Hiragino Sans GB Interface W6">
+        <Font style="Bold" type="TTF" name=".Hiragino Sans GB Interface W6" localizedFamilyNames="" path="/System/Library/Fonts/Hiragino Sans GB.ttc" offset="844" />
+    </Family>
+    <Family name=".LastResort">
+        <Font style="Regular" type="TTF" name=".LastResort" localizedFamilyNames="" path="/System/Library/Fonts/LastResort.otf" offset="0" />
+    </Family>
+    <Family name="Noto Serif Myanmar Blk">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar Black" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="60" />
+    </Family>
+    <Family name="Noto Serif Myanmar">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar Regular" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="1476" />
+        <Font style="Bold" type="TTF" name="Noto Serif Myanmar Bold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="296" />
+    </Family>
+    <Family name="Noto Serif Myanmar ExtBd">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar ExtraBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="532" />
+    </Family>
+    <Family name="Noto Serif Myanmar ExtLt">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar ExtraLight" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="768" />
+    </Family>
+    <Family name="Noto Serif Myanmar Light">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar Light" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="1004" />
+    </Family>
+    <Family name="Noto Serif Myanmar Med">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar Medium" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="1240" />
+    </Family>
+    <Family name="Noto Serif Myanmar SemBd">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar SemiBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="1712" />
+    </Family>
+    <Family name="Noto Serif Myanmar Thin">
+        <Font style="Regular" type="TTF" name="Noto Serif Myanmar Thin" localizedFamilyNames="" path="/System/Library/Fonts/NotoSerifMyanmar.ttc" offset="1948" />
+    </Family>
+    <Family name="Helvetica Neue">
+        <Font style="Regular" type="TTF" name="Helvetica Neue" localizedFamilyNames="" path="/System/Library/Fonts/HelveticaNeue.ttc" offset="80" />
+        <Font style="Italic" type="TTF" name="Helvetica Neue Italic" localizedFamilyNames="" path="/System/Library/Fonts/HelveticaNeue.ttc" offset="744" />
+        <Font style="Bold" type="TTF" name="Helvetica Neue Bold" localizedFamilyNames="" path="/System/Library/Fonts/HelveticaNeue.ttc" offset="396" />
+        <Font style="Bold Italic" type="TTF" name="Helvetica Neue Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/HelveticaNeue.ttc" offset="1108" />
+    </Family>
+    <Family name=".SF NS Mono">
+        <Font style="Light" type="TTF" name=".SF NS Mono Light" localizedFamilyNames="" path="/System/Library/Fonts/SFNSMono.ttf" offset="0" />
+    </Family>
+    <Family name="Hiragino Sans">
+        <Font style="W8" type="TTF" name="Hiragino Sans W8" localizedFamilyNames="qMmpSVbN;ヒラギノ角ゴシック W8" path="/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc" offset="40" />
+    </Family>
+    <Family name=".Hiragino Kaku Gothic Interface">
+        <Font style="W8" type="TTF" name=".Hiragino Kaku Gothic Interface W8" localizedFamilyNames="" path="/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc" offset="324" />
+    </Family>
+    <Family name="Hiragino Kaku Gothic Std">
+        <Font style="W8" type="TTF" name="Hiragino Kaku Gothic Std W8" localizedFamilyNames="qMmpS Std;ヒラギノ角ゴ Std W8" path="/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc" offset="624" />
+    </Family>
+    <Family name="Hiragino Kaku Gothic StdN">
+        <Font style="W8" type="TTF" name="Hiragino Kaku Gothic StdN W8" localizedFamilyNames="qMmpS StdN;ヒラギノ角ゴ StdN W8" path="/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc" offset="908" />
+    </Family>
+    <Family name="Noteworthy">
+        <Font style="Light" type="TTF" name="Noteworthy Light" localizedFamilyNames="" path="/System/Library/Fonts/Noteworthy.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Noteworthy Bold" localizedFamilyNames="" path="/System/Library/Fonts/Noteworthy.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans Oriya">
+        <Font style="Regular" type="TTF" name="Noto Sans Oriya" localizedFamilyNames="नोटो सैंस उडिया;ନୋଟୋ ସାନ୍ସ ଓରିୟା" path="/System/Library/Fonts/NotoSansOriya.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Noto Sans Oriya Bold" localizedFamilyNames="नोटो सैंस उडिया;ନୋଟୋ ସାନ୍ସ ଓରିୟା" path="/System/Library/Fonts/NotoSansOriya.ttc" offset="316" />
+    </Family>
+    <Family name=".ThonburiUI">
+        <Font style="Regular" type="TTF" name=".ThonburiUI Regular" localizedFamilyNames="" path="/System/Library/Fonts/ThonburiUI.ttc" offset="32" />
+    </Family>
+    <Family name=".ThonburiUIWatch">
+        <Font style="Regular" type="TTF" name=".ThonburiUIWatch Regular" localizedFamilyNames="" path="/System/Library/Fonts/ThonburiUI.ttc" offset="316" />
+    </Family>
+    <Family name=".SF Georgian">
+        <Font style="Regular" type="TTF" name=".SF Georgian" localizedFamilyNames="" path="/System/Library/Fonts/SFGeorgian.ttf" offset="0" />
+    </Family>
+    <Family name=".SF Hebrew">
+        <Font style="Regular" type="TTF" name=".SF Hebrew" localizedFamilyNames="" path="/System/Library/Fonts/SFHebrew.ttf" offset="0" />
+    </Family>
+    <Family name="Optima">
+        <Font style="Regular" type="TTF" name="Optima Regular" localizedFamilyNames="" path="/System/Library/Fonts/Optima.ttc" offset="44" />
+        <Font style="Italic" type="TTF" name="Optima Italic" localizedFamilyNames="" path="/System/Library/Fonts/Optima.ttc" offset="548" />
+        <Font style="Bold" type="TTF" name="Optima Bold" localizedFamilyNames="" path="/System/Library/Fonts/Optima.ttc" offset="296" />
+        <Font style="Bold Italic" type="TTF" name="Optima Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Optima.ttc" offset="800" />
+    </Family>
+    <Family name="Zapf Dingbats">
+        <Font style="Regular" type="TTF" name="Zapf Dingbats" localizedFamilyNames="" path="/System/Library/Fonts/ZapfDingbats.ttf" offset="0" />
+    </Family>
+    <Family name=".SF Armenian">
+        <Font style="Regular" type="TTF" name=".SF Armenian" localizedFamilyNames="" path="/System/Library/Fonts/SFArmenian.ttf" offset="0" />
+    </Family>
+    <Family name="Apple Braille">
+        <Font style="Regular" type="TTF" name="Apple Braille" localizedFamilyNames="" path="/System/Library/Fonts/Apple Braille.ttf" offset="0" />
+    </Family>
+    <Family name="Avenir Next Condensed">
+        <Font style="Regular" type="TTF" name="Avenir Next Condensed Regular" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="2172" />
+        <Font style="Italic" type="TTF" name="Avenir Next Condensed Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="1272" />
+        <Font style="Bold" type="TTF" name="Avenir Next Condensed Bold" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="72" />
+        <Font style="Bold Italic" type="TTF" name="Avenir Next Condensed Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="372" />
+    </Family>
+    <Family name="Avenir Next Condensed Demi Bold">
+        <Font style="Regular" type="TTF" name="Avenir Next Condensed Demi Bold" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="672" />
+        <Font style="Italic" type="TTF" name="Avenir Next Condensed Demi Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="972" />
+    </Family>
+    <Family name="Avenir Next Condensed Medium">
+        <Font style="Regular" type="TTF" name="Avenir Next Condensed Medium" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="1572" />
+        <Font style="Italic" type="TTF" name="Avenir Next Condensed Medium Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="1872" />
+    </Family>
+    <Family name="Avenir Next Condensed Heavy">
+        <Font style="Regular" type="TTF" name="Avenir Next Condensed Heavy" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="2472" />
+        <Font style="Italic" type="TTF" name="Avenir Next Condensed Heavy Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="2772" />
+    </Family>
+    <Family name="Avenir Next Condensed Ultra Light">
+        <Font style="Regular" type="TTF" name="Avenir Next Condensed Ultra Light" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="3072" />
+        <Font style="Italic" type="TTF" name="Avenir Next Condensed Ultra Light Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next Condensed.ttc" offset="3372" />
+    </Family>
+    <Family name="Lucida Grande">
+        <Font style="Regular" type="TTF" name="Lucida Grande" localizedFamilyNames="" path="/System/Library/Fonts/LucidaGrande.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Lucida Grande Bold" localizedFamilyNames="" path="/System/Library/Fonts/LucidaGrande.ttc" offset="404" />
+    </Family>
+    <Family name=".Lucida Grande UI">
+        <Font style="Regular" type="TTF" name=".Lucida Grande UI Regular" localizedFamilyNames=".Lucida Grande UI" path="/System/Library/Fonts/LucidaGrande.ttc" offset="752" />
+        <Font style="Bold" type="TTF" name=".Lucida Grande UI Bold" localizedFamilyNames=".Lucida Grande UI" path="/System/Library/Fonts/LucidaGrande.ttc" offset="1148" />
+    </Family>
+    <Family name="Courier">
+        <Font style="Regular" type="TTF" name="Courier" localizedFamilyNames="" path="/System/Library/Fonts/Courier.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Courier Bold" localizedFamilyNames="" path="/System/Library/Fonts/Courier.ttc" offset="372" />
+    </Family>
+    <Family name=".SF Compact">
+        <Font style="Black" type="TTF" name=".SF Compact" localizedFamilyNames="" path="/System/Library/Fonts/SFCompact.ttf" offset="0" />
+    </Family>
+    <Family name="Kohinoor Telugu">
+        <Font style="Regular" type="TTF" name="Kohinoor Telugu" localizedFamilyNames="कोहिनूर तेलुगु;కోహినూర్ తెలుగు" path="/System/Library/Fonts/KohinoorTelugu.ttc" offset="44" />
+        <Font style="Bold" type="TTF" name="Kohinoor Telugu Bold" localizedFamilyNames="कोहिनूर तेलुगु;కోహినూర్ తెలుగు" path="/System/Library/Fonts/KohinoorTelugu.ttc" offset="704" />
+    </Family>
+    <Family name="MuktaMahee Regular">
+        <Font style="Regular" type="TTF" name="MuktaMahee Regular" localizedFamilyNames="मुक्ता माही;ਮੁਕਤਾ ਮਾਹੀ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="52" />
+    </Family>
+    <Family name="MuktaMahee SemiBold">
+        <Font style="Regular" type="TTF" name="MuktaMahee SemiBold" localizedFamilyNames="मुक्ता माही सेमी बोल्ड;ਮੁਕਤਾ ਮਾਹੀ ਸੈਮੀਬੋਲਡ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="288" />
+    </Family>
+    <Family name="MuktaMahee Medium">
+        <Font style="Regular" type="TTF" name="MuktaMahee Medium" localizedFamilyNames="मुक्ता माही मीडियम;ਮੁਕਤਾ ਮਾਹੀ ਮੀਡੀਅਮ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="524" />
+    </Family>
+    <Family name="MuktaMahee Light">
+        <Font style="Regular" type="TTF" name="MuktaMahee Light" localizedFamilyNames="मुक्ता माही लाइट;ਮੁਕਤਾ ਮਾਹੀ ਲਾਈਟ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="760" />
+    </Family>
+    <Family name="MuktaMahee ExtraLight">
+        <Font style="Regular" type="TTF" name="MuktaMahee ExtraLight" localizedFamilyNames="मुक्ता माही एक्स्ट्रा लाइट;ਮੁਕਤਾ ਮਾਹੀ ਐਕਸਟ੍ਰਾਲਾਈਟ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="996" />
+    </Family>
+    <Family name="MuktaMahee ExtraBold">
+        <Font style="Regular" type="TTF" name="MuktaMahee ExtraBold" localizedFamilyNames="मुक्ता माही एक्स्ट्रा बोल्ड;ਮੁਕਤਾ ਮਾਹੀ ਐਕਸਟ੍ਰਾਬੋਲਡ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="1232" />
+    </Family>
+    <Family name="MuktaMahee Bold">
+        <Font style="Regular" type="TTF" name="MuktaMahee Bold" localizedFamilyNames="मुक्ता माही;ਮੁਕਤਾ ਮਾਹੀ" path="/System/Library/Fonts/MuktaMahee.ttc" offset="1468" />
+    </Family>
+    <Family name=".New York">
+        <Font style="Regular" type="TTF" name=".New York" localizedFamilyNames="" path="/System/Library/Fonts/NewYork.ttf" offset="0" />
+    </Family>
+    <Family name="System Font">
+        <Font style="Regular" type="TTF" name="System Font" localizedFamilyNames=".SF NS;Tipus de lletra del sistema;系統字體;Systémové písmo;Systemskrift;Systemschrift;Γραμματοσειρά συστήματος;Järjestelmäfontti;Police système;גופן מערכת;Rendszerbetűtípus;Font di sistema;システムフォント;시스템 서체;Systeemlettertype;Systemfont;Czcionka systemowa;Fonte do Sistema;Font de sistem;Системный шрифт;Font sustava;Systémové písmo;Systemtypsnitt;แบบอักษรระบบ;Sistem Fontu;Font Sistem;Системний шрифт;Phông chữ Hệ thống;Font Sistem;系统字体;Tipo de letra do sistema;خط النظام;Tipo de letra del sistema" path="/System/Library/Fonts/SFNS.ttf" offset="0" />
+    </Family>
+    <Family name=".SF Camera">
+        <Font style="Regular" type="TTF" name=".SF Camera" localizedFamilyNames="" path="/System/Library/Fonts/SFCamera.ttf" offset="0" />
+    </Family>
+    <Family name="Avenir Book">
+        <Font style="Regular" type="TTF" name="Avenir Book" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="72" />
+    </Family>
+    <Family name="Avenir Black">
+        <Font style="Regular" type="TTF" name="Avenir Black" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="704" />
+    </Family>
+    <Family name="Avenir Black Oblique">
+        <Font style="Regular" type="TTF" name="Avenir Black Oblique" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="1004" />
+    </Family>
+    <Family name="Avenir Heavy">
+        <Font style="Regular" type="TTF" name="Avenir Heavy" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="1304" />
+    </Family>
+    <Family name="Avenir Light">
+        <Font style="Regular" type="TTF" name="Avenir Light" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="1904" />
+    </Family>
+    <Family name="Avenir Medium">
+        <Font style="Regular" type="TTF" name="Avenir Medium" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="2536" />
+    </Family>
+    <Family name="Avenir">
+        <Font style="Oblique" type="TTF" name="Avenir Oblique" localizedFamilyNames="" path="/System/Library/Fonts/Avenir.ttc" offset="3152" />
+    </Family>
+    <Family name="Kohinoor Devanagari">
+        <Font style="Regular" type="TTF" name="Kohinoor Devanagari Regular" localizedFamilyNames="कोहिनूर देवनागरी;कोहिनूर देवनागरी" path="/System/Library/Fonts/Kohinoor.ttc" offset="44" />
+        <Font style="Bold" type="TTF" name="Kohinoor Devanagari Bold" localizedFamilyNames="कोहिनूर देवनागरी;कोहिनूर देवनागरी" path="/System/Library/Fonts/Kohinoor.ttc" offset="704" />
+    </Family>
+    <Family name="Noto Sans Myanmar Blk">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar Black" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="96" />
+    </Family>
+    <Family name="Noto Sans Myanmar">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar Regular" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="1512" />
+        <Font style="Bold" type="TTF" name="Noto Sans Myanmar Bold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="332" />
+    </Family>
+    <Family name="Noto Sans Myanmar ExtBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar ExtraBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="568" />
+    </Family>
+    <Family name="Noto Sans Myanmar ExtLt">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar ExtraLight" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="804" />
+    </Family>
+    <Family name="Noto Sans Myanmar Light">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar Light" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="1040" />
+    </Family>
+    <Family name="Noto Sans Myanmar Med">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar Medium" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="1276" />
+    </Family>
+    <Family name="Noto Sans Myanmar SemBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar SemiBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="1748" />
+    </Family>
+    <Family name="Noto Sans Myanmar Thin">
+        <Font style="Regular" type="TTF" name="Noto Sans Myanmar Thin" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="1984" />
+    </Family>
+    <Family name="Noto Sans Zawgyi Blk">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi Black" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="2220" />
+    </Family>
+    <Family name="Noto Sans Zawgyi">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi Regular" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="3636" />
+        <Font style="Bold" type="TTF" name="Noto Sans Zawgyi Bold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="2456" />
+    </Family>
+    <Family name="Noto Sans Zawgyi ExtBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi ExtraBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="2692" />
+    </Family>
+    <Family name="Noto Sans Zawgyi ExtLt">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi ExtraLight" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="2928" />
+    </Family>
+    <Family name="Noto Sans Zawgyi Light">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi Light" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="3164" />
+    </Family>
+    <Family name="Noto Sans Zawgyi Med">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi Medium" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="3400" />
+    </Family>
+    <Family name="Noto Sans Zawgyi SemBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi SemiBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="3872" />
+    </Family>
+    <Family name="Noto Sans Zawgyi Thin">
+        <Font style="Regular" type="TTF" name="Noto Sans Zawgyi Thin" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansMyanmar.ttc" offset="4108" />
+    </Family>
+    <Family name=".SF Armenian Rounded">
+        <Font style="Regular" type="TTF" name=".SF Armenian Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFArmenianRounded.ttf" offset="0" />
+    </Family>
+    <Family name="Hiragino Mincho ProN">
+        <Font style="W3" type="TTF" name="Hiragino Mincho ProN W3" localizedFamilyNames="qMm¾© ProN;ヒラギノ明朝 ProN W3" path="/System/Library/Fonts/ヒラギノ明朝 ProN.ttc" offset="40" />
+    </Family>
+    <Family name="Hiragino Mincho Pro">
+        <Font style="W3" type="TTF" name="Hiragino Mincho Pro W3" localizedFamilyNames="qMm¾© Pro;ヒラギノ明朝 Pro W3" path="/System/Library/Fonts/ヒラギノ明朝 ProN.ttc" offset="308" />
+    </Family>
+    <Family name="Avenir Next">
+        <Font style="Regular" type="TTF" name="Avenir Next Regular" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="2172" />
+        <Font style="Italic" type="TTF" name="Avenir Next Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="1272" />
+        <Font style="Bold" type="TTF" name="Avenir Next Bold" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="72" />
+        <Font style="Bold Italic" type="TTF" name="Avenir Next Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="372" />
+    </Family>
+    <Family name="Avenir Next Demi Bold">
+        <Font style="Regular" type="TTF" name="Avenir Next Demi Bold" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="672" />
+        <Font style="Italic" type="TTF" name="Avenir Next Demi Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="972" />
+    </Family>
+    <Family name="Avenir Next Medium">
+        <Font style="Regular" type="TTF" name="Avenir Next Medium" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="1572" />
+        <Font style="Italic" type="TTF" name="Avenir Next Medium Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="1872" />
+    </Family>
+    <Family name="Avenir Next Heavy">
+        <Font style="Regular" type="TTF" name="Avenir Next Heavy" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="2472" />
+        <Font style="Italic" type="TTF" name="Avenir Next Heavy Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="2772" />
+    </Family>
+    <Family name="Avenir Next Ultra Light">
+        <Font style="Regular" type="TTF" name="Avenir Next Ultra Light" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="3072" />
+        <Font style="Italic" type="TTF" name="Avenir Next Ultra Light Italic" localizedFamilyNames="" path="/System/Library/Fonts/Avenir Next.ttc" offset="3372" />
+    </Family>
+    <Family name="Kohinoor Gujarati">
+        <Font style="Light" type="TTF" name="Kohinoor Gujarati Light" localizedFamilyNames="कोहिनूर गुजराती;કોહિનૂર ગુજરાતી" path="/System/Library/Fonts/KohinoorGujarati.ttc" offset="264" />
+        <Font style="Bold" type="TTF" name="Kohinoor Gujarati Bold" localizedFamilyNames="कोहिनूर गुजराती;કોહિનૂર ગુજરાતી" path="/System/Library/Fonts/KohinoorGujarati.ttc" offset="44" />
+    </Family>
+    <Family name=".Aqua Kana">
+        <Font style="Regular" type="TTF" name=".Aqua Kana" localizedFamilyNames=".Aqua ©È;.Aqua かな" path="/System/Library/Fonts/AquaKana.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name=".Aqua Kana Bold" localizedFamilyNames=".Aqua ©È;.Aqua かな ボールド" path="/System/Library/Fonts/AquaKana.ttc" offset="284" />
+    </Family>
+    <Family name="Palatino">
+        <Font style="Regular" type="TTF" name="Palatino" localizedFamilyNames="" path="/System/Library/Fonts/Palatino.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Palatino Italic" localizedFamilyNames="" path="/System/Library/Fonts/Palatino.ttc" offset="388" />
+        <Font style="Bold" type="TTF" name="Palatino Bold" localizedFamilyNames="" path="/System/Library/Fonts/Palatino.ttc" offset="736" />
+        <Font style="Bold Italic" type="TTF" name="Palatino Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Palatino.ttc" offset="1020" />
+    </Family>
+    <Family name="Monaco">
+        <Font style="Regular" type="TTF" name="Monaco" localizedFamilyNames="" path="/System/Library/Fonts/Monaco.ttf" offset="0" />
+    </Family>
+    <Family name="Apple Symbols">
+        <Font style="Regular" type="TTF" name="Apple Symbols" localizedFamilyNames="" path="/System/Library/Fonts/Apple Symbols.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Nastaliq Urdu">
+        <Font style="Regular" type="TTF" name="Noto Nastaliq Urdu" localizedFamilyNames="نوٹو نستعلیق اردو;नोटो नास्तालिक़ उर्दू" path="/System/Library/Fonts/NotoNastaliq.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Noto Nastaliq Urdu Bold" localizedFamilyNames="نوٹو نستعلیق اردو;नोटो नास्तालिक़ उर्दू" path="/System/Library/Fonts/NotoNastaliq.ttc" offset="512" />
+    </Family>
+    <Family name=".Noto Nastaliq Urdu UI">
+        <Font style="Regular" type="TTF" name=".Noto Nastaliq Urdu UI" localizedFamilyNames="" path="/System/Library/Fonts/NotoNastaliq.ttc" offset="276" />
+        <Font style="Bold" type="TTF" name=".Noto Nastaliq Urdu UI Bold" localizedFamilyNames="" path="/System/Library/Fonts/NotoNastaliq.ttc" offset="748" />
+    </Family>
+    <Family name="Geeza Pro">
+        <Font style="Regular" type="TTF" name="Geeza Pro Regular" localizedFamilyNames="گیزا پرو;गीज़ा प्रो;جيزة" path="/System/Library/Fonts/GeezaPro.ttc" offset="52" />
+        <Font style="Bold" type="TTF" name="Geeza Pro Bold" localizedFamilyNames="گیزا پرو;गीज़ा प्रो;جيزة" path="/System/Library/Fonts/GeezaPro.ttc" offset="320" />
+    </Family>
+    <Family name=".Geeza Pro Interface">
+        <Font style="Regular" type="TTF" name=".Geeza Pro Interface Regular" localizedFamilyNames="" path="/System/Library/Fonts/GeezaPro.ttc" offset="588" />
+        <Font style="Bold" type="TTF" name=".Geeza Pro Interface Bold" localizedFamilyNames="" path="/System/Library/Fonts/GeezaPro.ttc" offset="856" />
+    </Family>
+    <Family name=".Geeza Pro PUA">
+        <Font style="Regular" type="TTF" name=".Geeza Pro PUA" localizedFamilyNames="" path="/System/Library/Fonts/GeezaPro.ttc" offset="1360" />
+        <Font style="Bold" type="TTF" name=".Geeza Pro PUA Bold" localizedFamilyNames="" path="/System/Library/Fonts/GeezaPro.ttc" offset="1612" />
+    </Family>
+    <Family name="Times">
+        <Font style="Regular" type="TTF" name="Times Roman" localizedFamilyNames="" path="/System/Library/Fonts/Times.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Times Italic" localizedFamilyNames="" path="/System/Library/Fonts/Times.ttc" offset="736" />
+        <Font style="Bold" type="TTF" name="Times Bold" localizedFamilyNames="" path="/System/Library/Fonts/Times.ttc" offset="388" />
+        <Font style="Bold Italic" type="TTF" name="Times Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Times.ttc" offset="1084" />
+    </Family>
+    <Family name=".SF Numeric">
+        <Font style="Regular" type="TTF" name=".SF Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="72" />
+    </Family>
+    <Family name=".SF Adaptive Numeric">
+        <Font style="Regular" type="TTF" name=".SF Adaptive Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="436" />
+    </Family>
+    <Family name=".SF Soft Numeric">
+        <Font style="Regular" type="TTF" name=".SF Soft Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="800" />
+    </Family>
+    <Family name=".SF Adaptive Soft Numeric">
+        <Font style="Regular" type="TTF" name=".SF Adaptive Soft Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="1164" />
+    </Family>
+    <Family name=".ADT Slab Numeric">
+        <Font style="Light" type="TTF" name=".ADT Slab Numeric Light" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="1528" />
+    </Family>
+    <Family name=".ADT Slab Soft Numeric">
+        <Font style="Light" type="TTF" name=".ADT Slab Soft Numeric Light" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="1892" />
+    </Family>
+    <Family name=".New York Numeric">
+        <Font style="Light" type="TTF" name=".New York Numeric Light" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="2256" />
+    </Family>
+    <Family name=".New York Soft Numeric">
+        <Font style="Light" type="TTF" name=".New York Soft Numeric Light" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="2636" />
+    </Family>
+    <Family name=".SF Rail Numeric">
+        <Font style="Black" type="TTF" name=".SF Rail Numeric Black" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="3000" />
+    </Family>
+    <Family name=".SF Rail Rounded Numeric">
+        <Font style="Black" type="TTF" name=".SF Rail Rounded Numeric Black" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="3284" />
+    </Family>
+    <Family name=".SF Rounded Numeric">
+        <Font style="Regular" type="TTF" name=".SF Rounded Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="3568" />
+    </Family>
+    <Family name=".SF Stencil Numeric">
+        <Font style="Regular" type="TTF" name=".SF Stencil Numeric" localizedFamilyNames="" path="/System/Library/Fonts/ADTNumeric.ttc" offset="3932" />
+    </Family>
+    <Family name="Hiragino Maru Gothic Pro">
+        <Font style="W4" type="TTF" name="Hiragino Maru Gothic Pro W4" localizedFamilyNames="qMmÛS Pro;ヒラギノ丸ゴ Pro W4" path="/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc" offset="32" />
+    </Family>
+    <Family name="Hiragino Maru Gothic ProN">
+        <Font style="W4" type="TTF" name="Hiragino Maru Gothic ProN W4" localizedFamilyNames="qMmÛS ProN;ヒラギノ丸ゴ ProN W4" path="/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc" offset="300" />
+    </Family>
+    <Family name="Hiragino Kaku Gothic ProN">
+        <Font style="W6" type="TTF" name="Hiragino Kaku Gothic ProN W6" localizedFamilyNames="qMmpS ProN;ヒラギノ角ゴ ProN W6" path="/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc" offset="592" />
+    </Family>
+    <Family name="Hiragino Kaku Gothic Pro">
+        <Font style="W6" type="TTF" name="Hiragino Kaku Gothic Pro W6" localizedFamilyNames="qMmpS Pro;ヒラギノ角ゴ Pro W6" path="/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc" offset="860" />
+    </Family>
+    <Family name="Noto Sans Kannada Thin">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada Thin" localizedFamilyNames="नोटो संस कन्नड़ थिन;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಥಿನ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="60" />
+    </Family>
+    <Family name="Noto Sans Kannada ExtraLight">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada ExtraLight" localizedFamilyNames="नोटो संस कन्नड़ एक्स्ट्रा लाइट;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಎಕ್ಸ್‌ಟ್ರಾ ಲೈಟ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="344" />
+    </Family>
+    <Family name="Noto Sans Kannada Light">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada Light" localizedFamilyNames="नोटो संस कन्नड़ लाइट;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಲೈಟ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="628" />
+    </Family>
+    <Family name="Noto Sans Kannada">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada Regular" localizedFamilyNames="नोटो संस कन्नड़;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="912" />
+        <Font style="Bold" type="TTF" name="Noto Sans Kannada Bold" localizedFamilyNames="नोटो संस कन्नड़;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="1764" />
+    </Family>
+    <Family name="Noto Sans Kannada Medium">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada Medium" localizedFamilyNames="नोटो संस कन्नड़ मीडियम;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಮೀಡಿಯಮ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="1196" />
+    </Family>
+    <Family name="Noto Sans Kannada SemiBold">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada SemiBold" localizedFamilyNames="नोटो संस कन्नड़ सेमी बोल्ड;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಸೆಮಿಬೋಲ್ಡ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="1480" />
+    </Family>
+    <Family name="Noto Sans Kannada ExtraBold">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada ExtraBold" localizedFamilyNames="नोटो संस कन्नड़ एक्स्ट्रा बोल्ड;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಎಕ್ಸ್‌ಟ್ರಾಬೋಲ್ಡ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="2048" />
+    </Family>
+    <Family name="Noto Sans Kannada Black">
+        <Font style="Regular" type="TTF" name="Noto Sans Kannada Black" localizedFamilyNames="नोटो संस कन्नड़ ब्लैक;ನೊಟೊ ಸ್ಯಾನ್ಸ್ ಕನ್ನಡ ಬ್ಲ್ಯಾಕ್" path="/System/Library/Fonts/NotoSansKannada.ttc" offset="2332" />
+    </Family>
+    <Family name=".SF Arabic">
+        <Font style="Regular" type="TTF" name=".SF Arabic" localizedFamilyNames="" path="/System/Library/Fonts/SFArabic.ttf" offset="0" />
+    </Family>
+    <Family name=".SF NS Rounded">
+        <Font style="Regular" type="TTF" name=".SF NS Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFNSRounded.ttf" offset="0" />
+    </Family>
+    <Family name=".CJK Symbols Fallback HK">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback HK" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="64" />
+    </Family>
+    <Family name=".CJK Symbols Fallback JA">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback JA" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="412" />
+    </Family>
+    <Family name=".CJK Symbols Fallback MO">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback MO" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="760" />
+    </Family>
+    <Family name=".CJK Symbols Fallback SC">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback SC" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="1108" />
+    </Family>
+    <Family name=".CJK Symbols Fallback TC">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback TC" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="1456" />
+    </Family>
+    <Family name=".CJK Symbols Fallback Watch HK">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback Watch HK" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="1804" />
+    </Family>
+    <Family name=".CJK Symbols Fallback Watch JA">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback Watch JA" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="2152" />
+    </Family>
+    <Family name=".CJK Symbols Fallback Watch MO">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback Watch MO" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="2500" />
+    </Family>
+    <Family name=".CJK Symbols Fallback Watch SC">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback Watch SC" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="2848" />
+    </Family>
+    <Family name=".CJK Symbols Fallback Watch TC">
+        <Font style="Regular" type="TTF" name=".CJK Symbols Fallback Watch TC" localizedFamilyNames="" path="/System/Library/Fonts/CJKSymbolsFallback.ttc" offset="3196" />
+    </Family>
+    <Family name=".DecoType Nastaleeq Urdu UI">
+        <Font style="Regular" type="TTF" name=".DecoType Nastaleeq Urdu UI" localizedFamilyNames="" path="/System/Library/Fonts/DecoTypeNastaleeqUrdu.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name=".DecoType Nastaleeq Urdu UI Bold" localizedFamilyNames="" path="/System/Library/Fonts/DecoTypeNastaleeqUrdu.ttc" offset="284" />
+    </Family>
+    <Family name="Marker Felt">
+        <Font style="Thin" type="TTF" name="Marker Felt Thin" localizedFamilyNames="" path="/System/Library/Fonts/MarkerFelt.ttc" offset="32" />
+    </Family>
+    <Family name=".Keyboard">
+        <Font style="Regular" type="TTF" name=".Keyboard" localizedFamilyNames="" path="/System/Library/Fonts/Keyboard.ttf" offset="0" />
+    </Family>
+    <Family name=".SF Bangla">
+        <Font style="Regular" type="TTF" name=".SF Bangla Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="60" />
+    </Family>
+    <Family name=".SF Devanagari">
+        <Font style="Regular" type="TTF" name=".SF Devanagari Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="360" />
+    </Family>
+    <Family name=".SF Gujarati">
+        <Font style="Regular" type="TTF" name=".SF Gujarati Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="660" />
+    </Family>
+    <Family name=".SF Gurmukhi">
+        <Font style="Regular" type="TTF" name=".SF Gurmukhi Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="960" />
+    </Family>
+    <Family name=".SF Kannada">
+        <Font style="Regular" type="TTF" name=".SF Kannada Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="1260" />
+    </Family>
+    <Family name=".SF Malayalam">
+        <Font style="Regular" type="TTF" name=".SF Malayalam Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="1560" />
+    </Family>
+    <Family name=".SF Odia">
+        <Font style="Regular" type="TTF" name=".SF Odia Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="1844" />
+    </Family>
+    <Family name=".SF Tamil">
+        <Font style="Regular" type="TTF" name=".SF Tamil Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="2144" />
+    </Family>
+    <Family name=".SF Telugu">
+        <Font style="Regular" type="TTF" name=".SF Telugu Regular" localizedFamilyNames="" path="/System/Library/Fonts/SFIndia.ttc" offset="2428" />
+    </Family>
+    <Family name=".SF Georgian Rounded">
+        <Font style="Regular" type="TTF" name=".SF Georgian Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFGeorgianRounded.ttf" offset="0" />
+    </Family>
+    <Family name=".SF Compact Rounded">
+        <Font style="Regular" type="TTF" name=".SF Compact Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFCompactRounded.ttf" offset="0" />
+    </Family>
+    <Family name="Arial Hebrew">
+        <Font style="Regular" type="TTF" name="Arial Hebrew" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="60" />
+        <Font style="Bold" type="TTF" name="Arial Hebrew Bold" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="392" />
+    </Family>
+    <Family name=".Arial Hebrew Desk Interface">
+        <Font style="Regular" type="TTF" name=".Arial Hebrew Desk Interface" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="1056" />
+        <Font style="Bold" type="TTF" name=".Arial Hebrew Desk Interface Bold" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="1388" />
+    </Family>
+    <Family name="Arial Hebrew Scholar">
+        <Font style="Regular" type="TTF" name="Arial Hebrew Scholar" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="2052" />
+        <Font style="Bold" type="TTF" name="Arial Hebrew Scholar Bold" localizedFamilyNames="" path="/System/Library/Fonts/ArialHB.ttc" offset="2384" />
+    </Family>
+    <Family name="Apple Color Emoji">
+        <Font style="Regular" type="TTF" name="Apple Color Emoji" localizedFamilyNames="" path="/System/Library/Fonts/Apple Color Emoji.ttc" offset="32" />
+    </Family>
+    <Family name=".Apple Color Emoji UI">
+        <Font style="Regular" type="TTF" name=".Apple Color Emoji UI" localizedFamilyNames="" path="/System/Library/Fonts/Apple Color Emoji.ttc" offset="380" />
+    </Family>
+    <Family name="Helvetica">
+        <Font style="Regular" type="TTF" name="Helvetica" localizedFamilyNames="" path="/System/Library/Fonts/Helvetica.ttc" offset="48" />
+        <Font style="Bold" type="TTF" name="Helvetica Bold" localizedFamilyNames="" path="/System/Library/Fonts/Helvetica.ttc" offset="380" />
+    </Family>
+    <Family name="Kohinoor Bangla">
+        <Font style="Regular" type="TTF" name="Kohinoor Bangla" localizedFamilyNames="कोहिनूर बांग्ला;কোহিনূর বাংলা;কোহিনূর বাংলা" path="/System/Library/Fonts/KohinoorBangla.ttc" offset="44" />
+        <Font style="Bold" type="TTF" name="Kohinoor Bangla Bold" localizedFamilyNames="कोहिनूर बांग्ला;কোহিনূর বাংলা;কোহিনূর বাংলা" path="/System/Library/Fonts/KohinoorBangla.ttc" offset="704" />
+    </Family>
+    <Family name=".SF Arabic Rounded">
+        <Font style="Regular" type="TTF" name=".SF Arabic Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFArabicRounded.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Armenian Blk">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian Black" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="60" />
+    </Family>
+    <Family name="Noto Sans Armenian">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian Regular" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="1380" />
+        <Font style="Bold" type="TTF" name="Noto Sans Armenian Bold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="280" />
+    </Family>
+    <Family name="Noto Sans Armenian ExtBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian ExtraBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="500" />
+    </Family>
+    <Family name="Noto Sans Armenian ExtLt">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian ExtraLight" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="720" />
+    </Family>
+    <Family name="Noto Sans Armenian Light">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian Light" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="940" />
+    </Family>
+    <Family name="Noto Sans Armenian Med">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian Medium" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="1160" />
+    </Family>
+    <Family name="Noto Sans Armenian SemBd">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian SemiBold" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="1600" />
+    </Family>
+    <Family name="Noto Sans Armenian Thin">
+        <Font style="Regular" type="TTF" name="Noto Sans Armenian Thin" localizedFamilyNames="" path="/System/Library/Fonts/NotoSansArmenian.ttc" offset="1820" />
+    </Family>
+    <Family name=".SF Hebrew Rounded">
+        <Font style="Regular" type="TTF" name=".SF Hebrew Rounded" localizedFamilyNames="" path="/System/Library/Fonts/SFHebrewRounded.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Lepcha">
+        <Font style="Regular" type="TTF" name="Noto Sans Lepcha Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLepcha-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Al Bayan">
+        <Font style="Plain" type="TTF" name="Al Bayan Plain" localizedFamilyNames="البيان" path="/System/Library/Fonts/Supplemental/AlBayan.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Al Bayan Bold" localizedFamilyNames="البيان" path="/System/Library/Fonts/Supplemental/AlBayan.ttc" offset="688" />
+    </Family>
+    <Family name=".Al Bayan PUA">
+        <Font style="Plain" type="TTF" name=".Al Bayan PUA Plain" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/AlBayan.ttc" offset="372" />
+        <Font style="Bold" type="TTF" name=".Al Bayan PUA Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/AlBayan.ttc" offset="1020" />
+    </Family>
+    <Family name="Webdings">
+        <Font style="Regular" type="TTF" name="Webdings" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Webdings.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Mandaic">
+        <Font style="Regular" type="TTF" name="Noto Sans Mandaic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMandaic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Rockwell">
+        <Font style="Regular" type="TTF" name="Rockwell" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Rockwell.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Rockwell Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Rockwell.ttc" offset="324" />
+        <Font style="Bold" type="TTF" name="Rockwell Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Rockwell.ttc" offset="608" />
+        <Font style="Bold Italic" type="TTF" name="Rockwell Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Rockwell.ttc" offset="892" />
+    </Family>
+    <Family name="Zapfino">
+        <Font style="Regular" type="TTF" name="Zapfino" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Zapfino.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans CaucAlban">
+        <Font style="Regular" type="TTF" name="Noto Sans Caucasian Albanian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Trebuchet MS">
+        <Font style="Regular" type="TTF" name="Trebuchet MS" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Trebuchet MS.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Trebuchet MS Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Trebuchet MS Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Trebuchet MS Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Trebuchet MS Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Trebuchet MS Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Trebuchet MS Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans OldHung">
+        <Font style="Regular" type="TTF" name="Noto Sans Old Hungarian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldHungarian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Georgia">
+        <Font style="Regular" type="TTF" name="Georgia" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Georgia.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Georgia Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Georgia Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Georgia Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Georgia Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Georgia Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Georgia Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Savoye LET">
+        <Font style="Plain" type="TTF" name="Savoye LET Plain:1.0" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Savoye LET.ttc" offset="32" />
+    </Family>
+    <Family name=".Savoye LET CC.">
+        <Font style="Plain" type="TTF" name="Savoye LET Plain CC.:1.0" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Savoye LET.ttc" offset="220" />
+    </Family>
+    <Family name="PT Sans">
+        <Font style="Regular" type="TTF" name="PT Sans" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="56" />
+        <Font style="Italic" type="TTF" name="PT Sans Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="388" />
+        <Font style="Bold" type="TTF" name="PT Sans Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="2380" />
+        <Font style="Bold Italic" type="TTF" name="PT Sans Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="2048" />
+    </Family>
+    <Family name="PT Sans Narrow">
+        <Font style="Regular" type="TTF" name="PT Sans Narrow" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="1052" />
+        <Font style="Bold" type="TTF" name="PT Sans Narrow Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="720" />
+    </Family>
+    <Family name="PT Sans Caption">
+        <Font style="Regular" type="TTF" name="PT Sans Caption" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="1716" />
+        <Font style="Bold" type="TTF" name="PT Sans Caption Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSans.ttc" offset="1384" />
+    </Family>
+    <Family name="Noto Sans Saurashtra">
+        <Font style="Regular" type="TTF" name="Noto Sans Saurashtra Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSaurashtra-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Multani">
+        <Font style="Regular" type="TTF" name="Noto Sans Multani Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMultani-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Hatran">
+        <Font style="Regular" type="TTF" name="Noto Sans Hatran Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansHatran-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Verdana">
+        <Font style="Regular" type="TTF" name="Verdana" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Verdana.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Verdana Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Verdana Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Verdana Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Verdana Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Verdana Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Verdana Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Bodoni 72 Smallcaps">
+        <Font style="Book" type="TTF" name="Bodoni 72 Smallcaps Book" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bodoni 72 Smallcaps Book.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans InsPahlavi">
+        <Font style="Regular" type="TTF" name="Noto Sans Inscriptional Pahlavi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Hanunoo">
+        <Font style="Regular" type="TTF" name="Noto Sans Hanunoo Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansHanunoo-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Times New Roman">
+        <Font style="Regular" type="TTF" name="Times New Roman" localizedFamilyNames="Times New Roman" path="/System/Library/Fonts/Supplemental/Times New Roman.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Times New Roman Italic" localizedFamilyNames="Times New Roman" path="/System/Library/Fonts/Supplemental/Times New Roman Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Times New Roman Bold" localizedFamilyNames="Times New Roman" path="/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Times New Roman Bold Italic" localizedFamilyNames="Times New Roman" path="/System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Sukhumvit Set">
+        <Font style="Thin" type="TTF" name="Sukhumvit Set Thin" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SukhumvitSet.ttc" offset="48" />
+        <Font style="Bold" type="TTF" name="Sukhumvit Set Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SukhumvitSet.ttc" offset="1164" />
+    </Family>
+    <Family name="Silom">
+        <Font style="Regular" type="TTF" name="Silom" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Silom.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Bhaiksuki">
+        <Font style="Regular" type="TTF" name="Noto Sans Bhaiksuki Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBhaiksuki-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Cham">
+        <Font style="Regular" type="TTF" name="Noto Sans Cham Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCham-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Manichaean">
+        <Font style="Regular" type="TTF" name="Noto Sans Manichaean Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansManichaean-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans NKo">
+        <Font style="Regular" type="TTF" name="Noto Sans NKo Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansNKo-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Kayah Li">
+        <Font style="Regular" type="TTF" name="Noto Sans Kayah Li Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansKayahLi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Osage">
+        <Font style="Regular" type="TTF" name="Noto Sans Osage Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOsage-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Nadeem">
+        <Font style="Regular" type="TTF" name="Nadeem Regular" localizedFamilyNames="نديم" path="/System/Library/Fonts/Supplemental/Nadeem.ttc" offset="32" />
+    </Family>
+    <Family name=".Nadeem PUA">
+        <Font style="Regular" type="TTF" name=".Nadeem PUA" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Nadeem.ttc" offset="300" />
+    </Family>
+    <Family name="Noto Sans Adlam">
+        <Font style="Regular" type="TTF" name="Noto Sans Adlam Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansAdlam-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="KufiStandardGK">
+        <Font style="Regular" type="TTF" name="KufiStandardGK Regular" localizedFamilyNames="كوفي" path="/System/Library/Fonts/Supplemental/KufiStandardGK.ttc" offset="32" />
+    </Family>
+    <Family name=".KufiStandardGK PUA">
+        <Font style="Regular" type="TTF" name=".KufiStandardGK PUA" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/KufiStandardGK.ttc" offset="300" />
+    </Family>
+    <Family name="Noto Sans Pahawh Hmong">
+        <Font style="Regular" type="TTF" name="Noto Sans Pahawh Hmong Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPahawhHmong-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Mro">
+        <Font style="Regular" type="TTF" name="Noto Sans Mro Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMro-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans CanAborig">
+        <Font style="Regular" type="TTF" name="Noto Sans Canadian Aboriginal Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCanadianAboriginal-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Avestan">
+        <Font style="Regular" type="TTF" name="Noto Sans Avestan Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansAvestan-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Bradley Hand">
+        <Font style="Bold" type="TTF" name="Bradley Hand Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bradley Hand Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Miao">
+        <Font style="Regular" type="TTF" name="Noto Sans Miao Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMiao-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Arial Narrow">
+        <Font style="Regular" type="TTF" name="Arial Narrow" localizedFamilyNames="Arial Narrow" path="/System/Library/Fonts/Supplemental/Arial Narrow.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Arial Narrow Italic" localizedFamilyNames="Arial Narrow" path="/System/Library/Fonts/Supplemental/Arial Narrow Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Arial Narrow Bold" localizedFamilyNames="Arial Narrow" path="/System/Library/Fonts/Supplemental/Arial Narrow Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Arial Narrow Bold Italic" localizedFamilyNames="Arial Narrow" path="/System/Library/Fonts/Supplemental/Arial Narrow Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Bassa Vah">
+        <Font style="Regular" type="TTF" name="Noto Sans Bassa Vah Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBassaVah-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="STIXGeneral">
+        <Font style="Regular" type="TTF" name="STIXGeneral-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXGeneral.otf" offset="0" />
+        <Font style="Italic" type="TTF" name="STIXGeneral-Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXGeneralItalic.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXGeneral-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXGeneralBol.otf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="STIXGeneral-BoldItalic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXGeneralBolIta.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Syriac">
+        <Font style="Regular" type="TTF" name="Noto Sans Syriac Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Mende Kikakui">
+        <Font style="Regular" type="TTF" name="Noto Sans Mende Kikakui Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMendeKikakui-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Kannada Sangam MN">
+        <Font style="Regular" type="TTF" name="Kannada Sangam MN" localizedFamilyNames="कन्नड़ संगम एमएन;ಕನ್ನಡ ಸಂಗಂ ಎಮ್ಎನ್" path="/System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Kannada Sangam MN Bold" localizedFamilyNames="कन्नड़ संगम एमएन;ಕನ್ನಡ ಸಂಗಂ ಎಮ್ಎನ್" path="/System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc" offset="364" />
+    </Family>
+    <Family name="Papyrus">
+        <Font style="Condensed" type="TTF" name="Papyrus Condensed" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Papyrus.ttc" offset="32" />
+    </Family>
+    <Family name="Seravek">
+        <Font style="Regular" type="TTF" name="Seravek" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="64" />
+        <Font style="Italic" type="TTF" name="Seravek Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="364" />
+        <Font style="Bold" type="TTF" name="Seravek Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="2764" />
+        <Font style="Bold Italic" type="TTF" name="Seravek Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="2464" />
+    </Family>
+    <Family name="Seravek Medium">
+        <Font style="Regular" type="TTF" name="Seravek Medium" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="964" />
+        <Font style="Italic" type="TTF" name="Seravek Medium Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="664" />
+    </Family>
+    <Family name="Seravek Light">
+        <Font style="Regular" type="TTF" name="Seravek Light" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="1564" />
+        <Font style="Italic" type="TTF" name="Seravek Light Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="1264" />
+    </Family>
+    <Family name="Seravek ExtraLight">
+        <Font style="Regular" type="TTF" name="Seravek ExtraLight" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="2164" />
+        <Font style="Italic" type="TTF" name="Seravek ExtraLight Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Seravek.ttc" offset="1864" />
+    </Family>
+    <Family name="AppleGothic">
+        <Font style="Regular" type="TTF" name="AppleGothic Regular" localizedFamilyNames="AppleGothic" path="/System/Library/Fonts/Supplemental/AppleGothic.ttf" offset="0" />
+    </Family>
+    <Family name="Iowan Old Style">
+        <Font style="Roman" type="TTF" name="Iowan Old Style Roman" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="52" />
+        <Font style="Italic" type="TTF" name="Iowan Old Style Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="684" />
+        <Font style="Bold" type="TTF" name="Iowan Old Style Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="368" />
+        <Font style="Bold Italic" type="TTF" name="Iowan Old Style Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="1000" />
+    </Family>
+    <Family name="Iowan Old Style Black">
+        <Font style="Regular" type="TTF" name="Iowan Old Style Black" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="1316" />
+        <Font style="Italic" type="TTF" name="Iowan Old Style Black Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Iowan Old Style.ttc" offset="1632" />
+    </Family>
+    <Family name="STIX Two Text">
+        <Font style="Regular" type="TTF" name="STIX Two Text" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXTwoText.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="STIX Two Text Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXTwoText-Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Lydian">
+        <Font style="Regular" type="TTF" name="Noto Sans Lydian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLydian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="DIN Condensed">
+        <Font style="Bold" type="TTF" name="DIN Condensed Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Chakma">
+        <Font style="Regular" type="TTF" name="Noto Sans Chakma Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansChakma-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Nabataean">
+        <Font style="Regular" type="TTF" name="Noto Sans Nabataean Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansNabataean-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Kailasa">
+        <Font style="Regular" type="TTF" name="Kailasa Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Kailasa.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Kailasa Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Kailasa.ttc" offset="284" />
+    </Family>
+    <Family name="Charter">
+        <Font style="Roman" type="TTF" name="Charter Roman" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="48" />
+        <Font style="Italic" type="TTF" name="Charter Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="380" />
+        <Font style="Bold" type="TTF" name="Charter Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="1044" />
+        <Font style="Bold Italic" type="TTF" name="Charter Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="712" />
+    </Family>
+    <Family name="Charter Black">
+        <Font style="Regular" type="TTF" name="Charter Black" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="1660" />
+        <Font style="Italic" type="TTF" name="Charter Black Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Charter.ttc" offset="1376" />
+    </Family>
+    <Family name="Noto Serif Hmong Nyiakeng">
+        <Font style="Regular" type="TTF" name="Noto Serif Hmong Nyiakeng Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Farisi">
+        <Font style="Regular" type="TTF" name="Farisi Regular" localizedFamilyNames="Farisi;فارسي" path="/System/Library/Fonts/Supplemental/Farisi.ttf" offset="0" />
+    </Family>
+    <Family name="Arial">
+        <Font style="Regular" type="TTF" name="Arial" localizedFamilyNames="Arial" path="/System/Library/Fonts/Supplemental/Arial.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Arial Italic" localizedFamilyNames="Arial" path="/System/Library/Fonts/Supplemental/Arial Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Arial Bold" localizedFamilyNames="Arial" path="/System/Library/Fonts/Supplemental/Arial Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Arial Bold Italic" localizedFamilyNames="Arial" path="/System/Library/Fonts/Supplemental/Arial Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="Mishafi">
+        <Font style="Regular" type="TTF" name="Mishafi Regular" localizedFamilyNames="Mishafi;مِصحفي" path="/System/Library/Fonts/Supplemental/Mishafi.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Duployan">
+        <Font style="Regular" type="TTF" name="Noto Sans Duployan Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansDuployan-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Academy Engraved LET">
+        <Font style="Plain" type="TTF" name="Academy Engraved LET Plain:1.0" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans SoraSomp">
+        <Font style="Regular" type="TTF" name="Noto Sans Sora Sompeng Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSoraSompeng-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Marion">
+        <Font style="Regular" type="TTF" name="Marion Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Marion.ttc" offset="36" />
+        <Font style="Italic" type="TTF" name="Marion Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Marion.ttc" offset="336" />
+        <Font style="Bold" type="TTF" name="Marion Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Marion.ttc" offset="636" />
+    </Family>
+    <Family name="Trattatello">
+        <Font style="Regular" type="TTF" name="Trattatello" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Trattatello.ttf" offset="0" />
+    </Family>
+    <Family name="Sinhala MN">
+        <Font style="Regular" type="TTF" name="Sinhala MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Sinhala MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Sinhala MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Sinhala MN.ttc" offset="316" />
+    </Family>
+    <Family name="Noto Sans Rejang">
+        <Font style="Regular" type="TTF" name="Noto Sans Rejang Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansRejang-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Ugaritic">
+        <Font style="Regular" type="TTF" name="Noto Sans Ugaritic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansUgaritic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Corsiva Hebrew">
+        <Font style="Regular" type="TTF" name="Corsiva Hebrew" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Corsiva.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Corsiva Hebrew Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Corsiva.ttc" offset="348" />
+    </Family>
+    <Family name="Noto Sans Lycian">
+        <Font style="Regular" type="TTF" name="Noto Sans Lycian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLycian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Big Caslon">
+        <Font style="Medium" type="TTF" name="Big Caslon Medium" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/BigCaslon.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans WarangCiti">
+        <Font style="Regular" type="TTF" name="Noto Sans Warang Citi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansWarangCiti-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Courier New">
+        <Font style="Regular" type="TTF" name="Courier New" localizedFamilyNames="Courier New" path="/System/Library/Fonts/Supplemental/Courier New.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Courier New Italic" localizedFamilyNames="Courier New" path="/System/Library/Fonts/Supplemental/Courier New Italic.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Courier New Bold" localizedFamilyNames="Courier New" path="/System/Library/Fonts/Supplemental/Courier New Bold.ttf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="Courier New Bold Italic" localizedFamilyNames="Courier New" path="/System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf" offset="0" />
+    </Family>
+    <Family name="GB18030 Bitmap">
+        <Font style="Regular" type="TTF" name="GB18030 Bitmap" localizedFamilyNames="GB18030 Bitmap" path="/System/Library/Fonts/Supplemental/NISC18030.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans HanifiRohg">
+        <Font style="Regular" type="TTF" name="Noto Sans Hanifi Rohingya Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansHanifiRohingya-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tirhuta">
+        <Font style="Regular" type="TTF" name="Noto Sans Tirhuta Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTirhuta-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Al Nile">
+        <Font style="Regular" type="TTF" name="Al Nile" localizedFamilyNames="Al Nile;النيل" path="/System/Library/Fonts/Supplemental/Al Nile.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Al Nile Bold" localizedFamilyNames="Al Nile;النيل" path="/System/Library/Fonts/Supplemental/Al Nile.ttc" offset="560" />
+    </Family>
+    <Family name=".Al Nile PUA">
+        <Font style="Regular" type="TTF" name=".Al Nile PUA" localizedFamilyNames=".Al Nile PUA" path="/System/Library/Fonts/Supplemental/Al Nile.ttc" offset="308" />
+        <Font style="Bold" type="TTF" name=".Al Nile PUA Bold" localizedFamilyNames=".Al Nile PUA" path="/System/Library/Fonts/Supplemental/Al Nile.ttc" offset="828" />
+    </Family>
+    <Family name="STIXIntegralsUpSm">
+        <Font style="Regular" type="TTF" name="STIXIntegralsUpSm-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpSmReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXIntegralsUpSm-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpSmBol.otf" offset="0" />
+    </Family>
+    <Family name="Superclarendon">
+        <Font style="Regular" type="TTF" name="Superclarendon Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SuperClarendon.ttc" offset="56" />
+        <Font style="Italic" type="TTF" name="Superclarendon Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SuperClarendon.ttc" offset="356" />
+        <Font style="Bold" type="TTF" name="Superclarendon Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SuperClarendon.ttc" offset="1460" />
+        <Font style="Bold Italic" type="TTF" name="Superclarendon Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SuperClarendon.ttc" offset="1192" />
+    </Family>
+    <Family name="Baghdad">
+        <Font style="Regular" type="TTF" name="Baghdad Regular" localizedFamilyNames="Baghdad;بغداد" path="/System/Library/Fonts/Supplemental/Baghdad.ttc" offset="32" />
+    </Family>
+    <Family name=".Baghdad PUA">
+        <Font style="Regular" type="TTF" name=".Baghdad PUA" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Baghdad.ttc" offset="396" />
+    </Family>
+    <Family name="Athelas">
+        <Font style="Regular" type="TTF" name="Athelas Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Athelas.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Athelas Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Athelas.ttc" offset="340" />
+        <Font style="Bold" type="TTF" name="Athelas Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Athelas.ttc" offset="940" />
+        <Font style="Bold Italic" type="TTF" name="Athelas Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Athelas.ttc" offset="640" />
+    </Family>
+    <Family name="STIXIntegralsUpD">
+        <Font style="Regular" type="TTF" name="STIXIntegralsUpD-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpDReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXIntegralsUpD-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpDBol.otf" offset="0" />
+    </Family>
+    <Family name="American Typewriter">
+        <Font style="Regular" type="TTF" name="American Typewriter" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/AmericanTypewriter.ttc" offset="52" />
+        <Font style="Bold" type="TTF" name="American Typewriter Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/AmericanTypewriter.ttc" offset="748" />
+    </Family>
+    <Family name="Lao Sangam MN">
+        <Font style="Regular" type="TTF" name="Lao Sangam MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Lao Sangam MN.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tai Le">
+        <Font style="Regular" type="TTF" name="Noto Sans Tai Le Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTaiLe-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Thaana">
+        <Font style="Regular" type="TTF" name="Noto Sans Thaana Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansThaana-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Luminari">
+        <Font style="Regular" type="TTF" name="Luminari" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Luminari.ttf" offset="0" />
+    </Family>
+    <Family name="STIXVariants">
+        <Font style="Regular" type="TTF" name="STIXVariants-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXVar.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXVariants-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXVarBol.otf" offset="0" />
+    </Family>
+    <Family name="Malayalam MN">
+        <Font style="Regular" type="TTF" name="Malayalam MN" localizedFamilyNames="मलयालम एमएन;മലയാളം എംഎൻ" path="/System/Library/Fonts/Supplemental/Malayalam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Malayalam MN Bold" localizedFamilyNames="मलयालम एमएन;മലയാളം എംഎൻ" path="/System/Library/Fonts/Supplemental/Malayalam MN.ttc" offset="300" />
+    </Family>
+    <Family name="STIXSizeOneSym">
+        <Font style="Regular" type="TTF" name="STIXSizeOneSym-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizOneSymReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXSizeOneSym-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizOneSymBol.otf" offset="0" />
+    </Family>
+    <Family name="Muna">
+        <Font style="Regular" type="TTF" name="Muna Regular" localizedFamilyNames="Muna;منى" path="/System/Library/Fonts/Supplemental/Muna.ttc" offset="48" />
+        <Font style="Bold" type="TTF" name="Muna Bold" localizedFamilyNames="Muna;منى" path="/System/Library/Fonts/Supplemental/Muna.ttc" offset="568" />
+    </Family>
+    <Family name=".Muna PUA">
+        <Font style="Regular" type="TTF" name=".Muna PUA" localizedFamilyNames=".Muna PUA" path="/System/Library/Fonts/Supplemental/Muna.ttc" offset="316" />
+        <Font style="Bold" type="TTF" name=".Muna PUA Bold" localizedFamilyNames=".Muna PUA" path="/System/Library/Fonts/Supplemental/Muna.ttc" offset="836" />
+    </Family>
+    <Family name="Brush Script MT">
+        <Font style="Italic" type="TTF" name="Brush Script MT Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Brush Script.ttf" offset="0" />
+    </Family>
+    <Family name="Bodoni 72 Oldstyle">
+        <Font style="Book" type="TTF" name="Bodoni 72 Oldstyle Book" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Bodoni 72 Oldstyle Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc" offset="540" />
+    </Family>
+    <Family name="Myanmar MN">
+        <Font style="Regular" type="TTF" name="Myanmar MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Myanmar MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Myanmar MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Myanmar MN.ttc" offset="380" />
+    </Family>
+    <Family name="Noto Sans Javanese">
+        <Font style="Regular" type="TTF" name="Noto Sans Javanese Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansJavanese-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Arial Unicode MS">
+        <Font style="Regular" type="TTF" name="Arial Unicode MS" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Arial Unicode.ttf" offset="0" />
+    </Family>
+    <Family name="Telugu MN">
+        <Font style="Regular" type="TTF" name="Telugu MN" localizedFamilyNames="तेलुगु एमएन;తెలుగు ఎమ్ఎన్" path="/System/Library/Fonts/Supplemental/Telugu MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Telugu MN Bold" localizedFamilyNames="तेलुगु एमएन;తెలుగు ఎమ్ఎన్" path="/System/Library/Fonts/Supplemental/Telugu MN.ttc" offset="364" />
+    </Family>
+    <Family name="Myanmar Sangam MN">
+        <Font style="Regular" type="TTF" name="Myanmar Sangam MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Myanmar Sangam MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc" offset="380" />
+    </Family>
+    <Family name="Chalkduster">
+        <Font style="Regular" type="TTF" name="Chalkduster" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Chalkduster.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Sundanese">
+        <Font style="Regular" type="TTF" name="Noto Sans Sundanese Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSundanese-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Devanagari Sangam MN">
+        <Font style="Regular" type="TTF" name="Devanagari Sangam MN" localizedFamilyNames="देवनागरी संगम एमएन;देवनागरी संगम एमएन" path="/System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Devanagari Sangam MN Bold" localizedFamilyNames="देवनागरी संगम एमएन;देवनागरी संगम एमएन" path="/System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc" offset="364" />
+    </Family>
+    <Family name="Phosphate">
+        <Font style="Inline" type="TTF" name="Phosphate Inline" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Phosphate.ttc" offset="32" />
+    </Family>
+    <Family name="Apple Chancery">
+        <Font style="Chancery" type="TTF" name="Apple Chancery" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Apple Chancery.ttf" offset="0" />
+    </Family>
+    <Family name="AppleMyungjo">
+        <Font style="Regular" type="TTF" name="AppleMyungjo Regular" localizedFamilyNames="AppleMyungjo" path="/System/Library/Fonts/Supplemental/AppleMyungjo.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Ol Chiki">
+        <Font style="Regular" type="TTF" name="Noto Sans Ol Chiki Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOlChiki-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Gunjala Gondi">
+        <Font style="Regular" type="TTF" name="Noto Sans Gunjala Gondi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansGunjalaGondi-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Futura">
+        <Font style="Medium" type="TTF" name="Futura Medium" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Futura.ttc" offset="44" />
+        <Font style="Bold" type="TTF" name="Futura Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Futura.ttc" offset="612" />
+    </Family>
+    <Family name="Noto Sans Carian">
+        <Font style="Regular" type="TTF" name="Noto Sans Carian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCarian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Copperplate">
+        <Font style="Regular" type="TTF" name="Copperplate" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Copperplate.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Copperplate Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Copperplate.ttc" offset="572" />
+    </Family>
+    <Family name="PT Mono">
+        <Font style="Regular" type="TTF" name="PT Mono" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTMono.ttc" offset="316" />
+        <Font style="Bold" type="TTF" name="PT Mono Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTMono.ttc" offset="32" />
+    </Family>
+    <Family name="Thonburi">
+        <Font style="Regular" type="TTF" name="Thonburi" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Thonburi.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Thonburi Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Thonburi.ttc" offset="288" />
+    </Family>
+    <Family name="Farah">
+        <Font style="Regular" type="TTF" name="Farah Regular" localizedFamilyNames="Farah;فرح" path="/System/Library/Fonts/Supplemental/Farah.ttc" offset="32" />
+    </Family>
+    <Family name=".Farah PUA">
+        <Font style="Regular" type="TTF" name=".Farah PUA" localizedFamilyNames=".Farah PUA" path="/System/Library/Fonts/Supplemental/Farah.ttc" offset="300" />
+    </Family>
+    <Family name="Noto Sans Nag Mundari">
+        <Font style="Regular" type="TTF" name="Noto Sans Nag Mundari Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansNagMundari-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Malayalam Sangam MN">
+        <Font style="Regular" type="TTF" name="Malayalam Sangam MN" localizedFamilyNames="मलयालम संगम एमएन;മലയാളം സംഗം എംഎൻ" path="/System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Malayalam Sangam MN Bold" localizedFamilyNames="मलयालम संगम एमएन;മലയാളം സംഗം എംഎൻ" path="/System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc" offset="300" />
+    </Family>
+    <Family name="Noto Sans Modi">
+        <Font style="Regular" type="TTF" name="Noto Sans Modi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansModi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Chalkboard SE">
+        <Font style="Light" type="TTF" name="Chalkboard SE Light" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/ChalkboardSE.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Chalkboard SE Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/ChalkboardSE.ttc" offset="796" />
+    </Family>
+    <Family name="ITF Devanagari">
+        <Font style="Book" type="TTF" name="ITF Devanagari Book" localizedFamilyNames="आईटीएफ़ देवनागरी;आयटीएफ देवनागरी" path="/System/Library/Fonts/Supplemental/ITFDevanagari.ttc" offset="64" />
+        <Font style="Bold" type="TTF" name="ITF Devanagari Bold" localizedFamilyNames="आईटीएफ़ देवनागरी;आयटीएफ देवनागरी" path="/System/Library/Fonts/Supplemental/ITFDevanagari.ttc" offset="284" />
+    </Family>
+    <Family name="ITF Devanagari Marathi">
+        <Font style="Book" type="TTF" name="ITF Devanagari Marathi Book" localizedFamilyNames="आईटीएफ़ देवनागरी मराठी;आयटीएफ देवनागरी मराठी" path="/System/Library/Fonts/Supplemental/ITFDevanagari.ttc" offset="1212" />
+        <Font style="Bold" type="TTF" name="ITF Devanagari Marathi Bold" localizedFamilyNames="आईटीएफ़ देवनागरी मराठी;आयटीएफ देवनागरी मराठी" path="/System/Library/Fonts/Supplemental/ITFDevanagari.ttc" offset="1432" />
+    </Family>
+    <Family name="Noto Sans Meroitic">
+        <Font style="Regular" type="TTF" name="Noto Sans Meroitic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMeroitic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Bangla MN">
+        <Font style="Regular" type="TTF" name="Bangla MN" localizedFamilyNames="बांग्ला एमएन;বাংলা এমএন;বাংলা এমএন" path="/System/Library/Fonts/Supplemental/Bangla MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Bangla MN Bold" localizedFamilyNames="बांग्ला एमएन;বাংলা এমএন;বাংলা এমএন" path="/System/Library/Fonts/Supplemental/Bangla MN.ttc" offset="364" />
+    </Family>
+    <Family name="STIXNonUnicode">
+        <Font style="Regular" type="TTF" name="STIXNonUnicode-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXNonUni.otf" offset="0" />
+        <Font style="Italic" type="TTF" name="STIXNonUnicode-Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXNonUniIta.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXNonUnicode-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXNonUniBol.otf" offset="0" />
+        <Font style="Bold Italic" type="TTF" name="STIXNonUnicode-BoldItalic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXNonUniBolIta.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Palmyrene">
+        <Font style="Regular" type="TTF" name="Noto Sans Palmyrene Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPalmyrene-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans PhagsPa">
+        <Font style="Regular" type="TTF" name="Noto Sans PhagsPa Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPhagsPa-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Siddham">
+        <Font style="Regular" type="TTF" name="Noto Sans Siddham Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSiddham-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Yi">
+        <Font style="Regular" type="TTF" name="Noto Sans Yi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansYi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Bangla Sangam MN">
+        <Font style="Regular" type="TTF" name="Bangla Sangam MN" localizedFamilyNames="बांग्ला संगम एमएन;বাংলা সংগ্রাম এমএন;বাংলা সংগ্রাম এমএন" path="/System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Bangla Sangam MN Bold" localizedFamilyNames="बांग्ला संगम एमएन;বাংলা সংগ্রাম এমএন;বাংলা সংগ্রাম এমএন" path="/System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans PsaPahlavi">
+        <Font style="Regular" type="TTF" name="Noto Sans Psalter Pahlavi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPsalterPahlavi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Tamil MN">
+        <Font style="Regular" type="TTF" name="Tamil MN" localizedFamilyNames="तमिल एमएन;தமிழ் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Tamil MN Bold" localizedFamilyNames="तमिल एमएन;தமிழ் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil MN.ttc" offset="332" />
+    </Family>
+    <Family name="Noto Sans Limbu">
+        <Font style="Regular" type="TTF" name="Noto Sans Limbu Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLimbu-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Cypriot">
+        <Font style="Regular" type="TTF" name="Noto Sans Cypriot Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCypriot-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Gurmukhi Sangam MN">
+        <Font style="Regular" type="TTF" name="Gurmukhi Sangam MN" localizedFamilyNames="गुरुमुखी संगति एमएन;ਗੁਰਮੁਖੀ ਸੰਗਮ ਐਮਐੱਨ" path="/System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Gurmukhi Sangam MN Bold" localizedFamilyNames="गुरुमुखी संगति एमएन;ਗੁਰਮੁਖੀ ਸੰਗਮ ਐਮਐੱਨ" path="/System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc" offset="300" />
+    </Family>
+    <Family name="Gujarati MT">
+        <Font style="Regular" type="TTF" name="Gujarati MT" localizedFamilyNames="गुजराती एचटी;ગુજરાતી એમટી" path="/System/Library/Fonts/Supplemental/GujaratiMT.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Gujarati MT Bold" localizedFamilyNames="गुजराती एचटी;ગુજરાતી એમટી" path="/System/Library/Fonts/Supplemental/GujaratiMT.ttc" offset="316" />
+    </Family>
+    <Family name="Diwan Kufi">
+        <Font style="Regular" type="TTF" name="Diwan Kufi Regular" localizedFamilyNames="Diwan Kufi;ديوان كوفي" path="/System/Library/Fonts/Supplemental/Diwan Kufi.ttc" offset="32" />
+    </Family>
+    <Family name=".Diwan Kufi PUA">
+        <Font style="Regular" type="TTF" name=".Diwan Kufi PUA" localizedFamilyNames=".Diwan Kufi PUA" path="/System/Library/Fonts/Supplemental/Diwan Kufi.ttc" offset="316" />
+    </Family>
+    <Family name="Noto Sans Bamum">
+        <Font style="Regular" type="TTF" name="Noto Sans Bamum Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBamum-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Lisu">
+        <Font style="Regular" type="TTF" name="Noto Sans Lisu Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLisu-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Wingdings 3">
+        <Font style="Regular" type="TTF" name="Wingdings 3" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Wingdings 3.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Mahajani">
+        <Font style="Regular" type="TTF" name="Noto Sans Mahajani Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMahajani-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Wingdings 2">
+        <Font style="Regular" type="TTF" name="Wingdings 2" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Wingdings 2.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Glagolitic">
+        <Font style="Regular" type="TTF" name="Noto Sans Glagolitic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansGlagolitic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Hoefler Text Ornaments">
+        <Font style="Ornaments" type="TTF" name="Hoefler Text Ornaments" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Hoefler Text Ornaments.ttf" offset="0" />
+    </Family>
+    <Family name="Tamil Sangam MN">
+        <Font style="Regular" type="TTF" name="Tamil Sangam MN" localizedFamilyNames="तमिल संगम एमएन;தமிழ் சங்கம் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Tamil Sangam MN Bold" localizedFamilyNames="तमिल संगम एमएन;தமிழ் சங்கம் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc" offset="480" />
+    </Family>
+    <Family name="Grantha Sangam MN">
+        <Font style="Regular" type="TTF" name="Grantha Sangam MN Regular" localizedFamilyNames="ग्रंथ संगम एमएन;கிரந்த சங்கம் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc" offset="260" />
+        <Font style="Bold" type="TTF" name="Grantha Sangam MN Bold" localizedFamilyNames="ग्रंथ संगम एमएन;கிரந்த சங்கம் எம்என்" path="/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc" offset="700" />
+    </Family>
+    <Family name="Noto Serif Ahom">
+        <Font style="Regular" type="TTF" name="Noto Serif Ahom Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSerifAhom-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Bodoni Ornaments">
+        <Font style="Regular" type="TTF" name="Bodoni Ornaments" localizedFamilyNames="Bodoni Ornaments" path="/System/Library/Fonts/Supplemental/Bodoni Ornaments.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Vai">
+        <Font style="Regular" type="TTF" name="Noto Sans Vai Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansVai-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tagbanwa">
+        <Font style="Regular" type="TTF" name="Noto Sans Tagbanwa Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTagbanwa-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Cochin">
+        <Font style="Regular" type="TTF" name="Cochin" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Cochin.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Cochin Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Cochin.ttc" offset="784" />
+        <Font style="Bold" type="TTF" name="Cochin Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Cochin.ttc" offset="420" />
+        <Font style="Bold Italic" type="TTF" name="Cochin Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Cochin.ttc" offset="1148" />
+    </Family>
+    <Family name="Skia">
+        <Font style="Regular" type="TTF" name="Skia" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Skia.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Phoenician">
+        <Font style="Regular" type="TTF" name="Noto Sans Phoenician Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPhoenician-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Devanagari MT">
+        <Font style="Regular" type="TTF" name="Devanagari MT" localizedFamilyNames="देवनागरी एमटी;देवनागरी एमटी" path="/System/Library/Fonts/Supplemental/DevanagariMT.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Devanagari MT Bold" localizedFamilyNames="देवनागरी एमटी;देवनागरी एमटी" path="/System/Library/Fonts/Supplemental/DevanagariMT.ttc" offset="364" />
+    </Family>
+    <Family name="Kannada MN">
+        <Font style="Regular" type="TTF" name="Kannada MN" localizedFamilyNames="कन्नड़ एमएन;ಕನ್ನಡ ಎಮ್ಎನ್" path="/System/Library/Fonts/Supplemental/Kannada MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Kannada MN Bold" localizedFamilyNames="कन्नड़ एमएन;ಕನ್ನಡ ಎಮ್ಎನ್" path="/System/Library/Fonts/Supplemental/Kannada MN.ttc" offset="364" />
+    </Family>
+    <Family name="STIX Two Math">
+        <Font style="Regular" type="TTF" name="STIX Two Math Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXTwoMath.otf" offset="0" />
+    </Family>
+    <Family name="Beirut">
+        <Font style="Regular" type="TTF" name="Beirut Regular" localizedFamilyNames="Beirut;بيروت" path="/System/Library/Fonts/Supplemental/Beirut.ttc" offset="32" />
+    </Family>
+    <Family name=".Beirut PUA">
+        <Font style="Regular" type="TTF" name=".Beirut PUA" localizedFamilyNames=".Beirut PUA" path="/System/Library/Fonts/Supplemental/Beirut.ttc" offset="316" />
+    </Family>
+    <Family name="Impact">
+        <Font style="Regular" type="TTF" name="Impact" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Impact.ttf" offset="0" />
+    </Family>
+    <Family name="Kokonor">
+        <Font style="Regular" type="TTF" name="Kokonor Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Kokonor.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Kaithi">
+        <Font style="Regular" type="TTF" name="Noto Sans Kaithi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansKaithi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="New Peninim MT">
+        <Font style="Regular" type="TTF" name="New Peninim MT" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NewPeninimMT.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="New Peninim MT Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NewPeninimMT.ttc" offset="988" />
+    </Family>
+    <Family name="STIXIntegralsUp">
+        <Font style="Regular" type="TTF" name="STIXIntegralsUp-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXIntegralsUp-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntUpBol.otf" offset="0" />
+    </Family>
+    <Family name="Noto Serif Balinese">
+        <Font style="Regular" type="TTF" name="Noto Serif Balinese Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSerifBalinese-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Takri">
+        <Font style="Regular" type="TTF" name="Noto Sans Takri Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTakri-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Masaram Gondi">
+        <Font style="Regular" type="TTF" name="Noto Sans Masaram Gondi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMasaramGondi-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Gurmukhi MN">
+        <Font style="Regular" type="TTF" name="Gurmukhi MN" localizedFamilyNames="गुरुमुखी एमएन;ਗੁਰਮੁਖੀ ਐਮਐੱਨ" path="/System/Library/Fonts/Supplemental/Gurmukhi MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Gurmukhi MN Bold" localizedFamilyNames="गुरुमुखी एमएन;ਗੁਰਮੁਖੀ ਐਮਐੱਨ" path="/System/Library/Fonts/Supplemental/Gurmukhi MN.ttc" offset="380" />
+    </Family>
+    <Family name="STIXSizeThreeSym">
+        <Font style="Regular" type="TTF" name="STIXSizeThreeSym-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizThreeSymReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXSizeThreeSym-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizThreeSymBol.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans EgyptHiero">
+        <Font style="Regular" type="TTF" name="Noto Sans Egyptian Hieroglyphs Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Samaritan">
+        <Font style="Regular" type="TTF" name="Noto Sans Samaritan Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSamaritan-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Elbasan">
+        <Font style="Regular" type="TTF" name="Noto Sans Elbasan Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansElbasan-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Party LET">
+        <Font style="Plain" type="TTF" name="Party LET Plain" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PartyLET-plain.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Kharoshthi">
+        <Font style="Regular" type="TTF" name="Noto Sans Kharoshthi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansKharoshthi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Tahoma">
+        <Font style="Regular" type="TTF" name="Tahoma" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Tahoma.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Tahoma Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Tahoma Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Diwan Thuluth">
+        <Font style="Regular" type="TTF" name="Diwan Thuluth Regular" localizedFamilyNames="Diwan Thuluth;ديوان ثلث" path="/System/Library/Fonts/Supplemental/Diwan Thuluth.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tagalog">
+        <Font style="Regular" type="TTF" name="Noto Sans Tagalog Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTagalog-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Ayuthaya">
+        <Font style="Regular" type="TTF" name="Ayuthaya" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Ayuthaya.ttf" offset="0" />
+    </Family>
+    <Family name="Sinhala Sangam MN">
+        <Font style="Regular" type="TTF" name="Sinhala Sangam MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Sinhala Sangam MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc" offset="316" />
+    </Family>
+    <Family name="Khmer Sangam MN">
+        <Font style="Regular" type="TTF" name="Khmer Sangam MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Khmer Sangam MN.ttf" offset="0" />
+    </Family>
+    <Family name="PT Serif">
+        <Font style="Regular" type="TTF" name="PT Serif" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerif.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="PT Serif Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerif.ttc" offset="340" />
+        <Font style="Bold" type="TTF" name="PT Serif Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerif.ttc" offset="940" />
+        <Font style="Bold Italic" type="TTF" name="PT Serif Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerif.ttc" offset="640" />
+    </Family>
+    <Family name="Snell Roundhand">
+        <Font style="Regular" type="TTF" name="Snell Roundhand" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SnellRoundhand.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Snell Roundhand Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SnellRoundhand.ttc" offset="352" />
+    </Family>
+    <Family name="Noto Sans Sharada">
+        <Font style="Regular" type="TTF" name="Noto Sans Sharada Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSharada-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Chalkboard">
+        <Font style="Regular" type="TTF" name="Chalkboard" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Chalkboard.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Chalkboard Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Chalkboard.ttc" offset="396" />
+    </Family>
+    <Family name="Kefa III">
+        <Font style="Regular" type="TTF" name="Kefa III Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/KefaIII.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Khojki">
+        <Font style="Regular" type="TTF" name="Noto Sans Khojki Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansKhojki-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Bodoni 72">
+        <Font style="Book" type="TTF" name="Bodoni 72 Book" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bodoni 72.ttc" offset="36" />
+        <Font style="Bold" type="TTF" name="Bodoni 72 Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Bodoni 72.ttc" offset="540" />
+    </Family>
+    <Family name="Noto Sans NewTaiLue">
+        <Font style="Regular" type="TTF" name="Noto Sans New Tai Lue Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansNewTaiLue-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans InsParthi">
+        <Font style="Regular" type="TTF" name="Noto Sans Inscriptional Parthian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansInscriptionalParthian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Mshtakan">
+        <Font style="Regular" type="TTF" name="Mshtakan" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Mshtakan.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Mshtakan Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Mshtakan.ttc" offset="608" />
+    </Family>
+    <Family name="Noto Sans Buhid">
+        <Font style="Regular" type="TTF" name="Noto Sans Buhid Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBuhid-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Lao MN">
+        <Font style="Regular" type="TTF" name="Lao MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Lao MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Lao MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Lao MN.ttc" offset="348" />
+    </Family>
+    <Family name="Sana">
+        <Font style="Regular" type="TTF" name="Sana Regular" localizedFamilyNames="Sana;صنعاء" path="/System/Library/Fonts/Supplemental/Sana.ttc" offset="32" />
+    </Family>
+    <Family name=".Sana PUA">
+        <Font style="Regular" type="TTF" name=".Sana PUA" localizedFamilyNames=".Sana PUA" path="/System/Library/Fonts/Supplemental/Sana.ttc" offset="300" />
+    </Family>
+    <Family name="Arial Black">
+        <Font style="Regular" type="TTF" name="Arial Black" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Arial Black.ttf" offset="0" />
+    </Family>
+    <Family name="Baskerville">
+        <Font style="Regular" type="TTF" name="Baskerville" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Baskerville.ttc" offset="48" />
+        <Font style="Italic" type="TTF" name="Baskerville Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Baskerville.ttc" offset="520" />
+        <Font style="Bold" type="TTF" name="Baskerville Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Baskerville.ttc" offset="284" />
+        <Font style="Bold Italic" type="TTF" name="Baskerville Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Baskerville.ttc" offset="772" />
+    </Family>
+    <Family name="Comic Sans MS">
+        <Font style="Regular" type="TTF" name="Comic Sans MS" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Comic Sans MS.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="Comic Sans MS Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Comic Sans MS Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Khudawadi">
+        <Font style="Regular" type="TTF" name="Noto Sans Khudawadi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansKhudawadi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="InaiMathi">
+        <Font style="Regular" type="TTF" name="InaiMathi" localizedFamilyNames="इनाईमाथी;இணைமதி" path="/System/Library/Fonts/Supplemental/InaiMathi-MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="InaiMathi Bold" localizedFamilyNames="इनाईमाथी;இணைமதி" path="/System/Library/Fonts/Supplemental/InaiMathi-MN.ttc" offset="412" />
+    </Family>
+    <Family name="Noto Serif Yezidi">
+        <Font style="Regular" type="TTF" name="Noto Serif Yezidi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSerifYezidi-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Buginese">
+        <Font style="Regular" type="TTF" name="Noto Sans Buginese Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBuginese-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Telugu Sangam MN">
+        <Font style="Regular" type="TTF" name="Telugu Sangam MN" localizedFamilyNames="तेलुगु संगम एमएन;తెలుగు సంగం ఎమ్ఎన్" path="/System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Telugu Sangam MN Bold" localizedFamilyNames="तेलुगु संगम एमएन;తెలుగు సంగం ఎమ్ఎన్" path="/System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc" offset="348" />
+    </Family>
+    <Family name="Hoefler Text">
+        <Font style="Regular" type="TTF" name="Hoefler Text" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Hoefler Text.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Hoefler Text Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Hoefler Text.ttc" offset="928" />
+    </Family>
+    <Family name="Noto Sans Linear B">
+        <Font style="Regular" type="TTF" name="Noto Sans Linear B Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLinearB-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="DIN Alternate">
+        <Font style="Bold" type="TTF" name="DIN Alternate Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Wingdings">
+        <Font style="Regular" type="TTF" name="Wingdings" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Wingdings.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Newa">
+        <Font style="Regular" type="TTF" name="Noto Sans Newa Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansNewa-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Sathu">
+        <Font style="Regular" type="TTF" name="Sathu" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Sathu.ttf" offset="0" />
+    </Family>
+    <Family name="Gujarati Sangam MN">
+        <Font style="Regular" type="TTF" name="Gujarati Sangam MN" localizedFamilyNames="गुजराती संगम एमएन;ગુજરાતી સંગમ એમએન" path="/System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Gujarati Sangam MN Bold" localizedFamilyNames="गुजराती संगम एमएन;ગુજરાતી સંગમ એમએન" path="/System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans Syloti Nagri">
+        <Font style="Regular" type="TTF" name="Noto Sans Syloti Nagri Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansSylotiNagri-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="STIXSizeTwoSym">
+        <Font style="Regular" type="TTF" name="STIXSizeTwoSym-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizTwoSymReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXSizeTwoSym-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizTwoSymBol.otf" offset="0" />
+    </Family>
+    <Family name="Galvji">
+        <Font style="Regular" type="TTF" name="Galvji" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Galvji.ttc" offset="40" />
+        <Font style="Bold" type="TTF" name="Galvji Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Galvji.ttc" offset="244" />
+    </Family>
+    <Family name="Noto Sans OldPersian">
+        <Font style="Regular" type="TTF" name="Noto Sans Old Persian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldPersian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Euphemia UCAS">
+        <Font style="Regular" type="TTF" name="Euphemia UCAS" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/EuphemiaCAS.ttc" offset="36" />
+        <Font style="Italic" type="TTF" name="Euphemia UCAS Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/EuphemiaCAS.ttc" offset="588" />
+        <Font style="Bold" type="TTF" name="Euphemia UCAS Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/EuphemiaCAS.ttc" offset="336" />
+    </Family>
+    <Family name="Plantagenet Cherokee">
+        <Font style="Regular" type="TTF" name="Plantagenet Cherokee" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PlantagenetCherokee.ttf" offset="0" />
+    </Family>
+    <Family name="Didot">
+        <Font style="Regular" type="TTF" name="Didot" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Didot.ttc" offset="36" />
+        <Font style="Italic" type="TTF" name="Didot Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Didot.ttc" offset="352" />
+        <Font style="Bold" type="TTF" name="Didot Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Didot.ttc" offset="652" />
+    </Family>
+    <Family name="Noto Sans Linear A">
+        <Font style="Regular" type="TTF" name="Noto Sans Linear A Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansLinearA-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="STIXIntegralsSm">
+        <Font style="Regular" type="TTF" name="STIXIntegralsSm-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntSmReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXIntegralsSm-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntSmBol.otf" offset="0" />
+    </Family>
+    <Family name="STIXSizeFourSym">
+        <Font style="Regular" type="TTF" name="STIXSizeFourSym-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizFourSymReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXSizeFourSym-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizFourSymBol.otf" offset="0" />
+    </Family>
+    <Family name="Microsoft Sans Serif">
+        <Font style="Regular" type="TTF" name="Microsoft Sans Serif" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Cuneiform">
+        <Font style="Regular" type="TTF" name="Noto Sans Cuneiform Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCuneiform-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Batak">
+        <Font style="Regular" type="TTF" name="Noto Sans Batak Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBatak-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Arial Rounded MT Bold">
+        <Font style="Regular" type="TTF" name="Arial Rounded MT Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Khmer MN">
+        <Font style="Regular" type="TTF" name="Khmer MN" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Khmer MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Khmer MN Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Khmer MN.ttc" offset="348" />
+    </Family>
+    <Family name="Noto Sans Wancho">
+        <Font style="Regular" type="TTF" name="Noto Sans Wancho Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansWancho-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Krungthep">
+        <Font style="Regular" type="TTF" name="Krungthep" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Krungthep.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans OldSouArab">
+        <Font style="Regular" type="TTF" name="Noto Sans Old South Arabian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldSouthArabian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Oriya MN">
+        <Font style="Regular" type="TTF" name="Oriya MN" localizedFamilyNames="उड़िया एमएन;ଓରିୟା ଏମ୍ଏନ୍" path="/System/Library/Fonts/Supplemental/Oriya MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Oriya MN Bold" localizedFamilyNames="उड़िया एमएन;ଓରିୟା ଏମ୍ଏନ୍" path="/System/Library/Fonts/Supplemental/Oriya MN.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans PauCinHau">
+        <Font style="Regular" type="TTF" name="Noto Sans Pau Cin Hau Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansPauCinHau-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Marchen">
+        <Font style="Regular" type="TTF" name="Noto Sans Marchen Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMarchen-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Old Italic">
+        <Font style="Regular" type="TTF" name="Noto Sans Old Italic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldItalic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Gothic">
+        <Font style="Regular" type="TTF" name="Noto Sans Gothic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansGothic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Gurmukhi MT">
+        <Font style="Regular" type="TTF" name="Gurmukhi MT" localizedFamilyNames="गुरुमुखी एमटी;ਗੁਰਮੁਖੀ ਐਮਜੀ" path="/System/Library/Fonts/Supplemental/Gurmukhi.ttf" offset="0" />
+    </Family>
+    <Family name="Al Tarikh">
+        <Font style="Regular" type="TTF" name="Al Tarikh Regular" localizedFamilyNames="Al Tarikh;التاريخ" path="/System/Library/Fonts/Supplemental/Al Tarikh.ttc" offset="32" />
+    </Family>
+    <Family name=".Al Tarikh PUA">
+        <Font style="Regular" type="TTF" name=".Al Tarikh PUA" localizedFamilyNames=".Al Tarikh PUA" path="/System/Library/Fonts/Supplemental/Al Tarikh.ttc" offset="300" />
+    </Family>
+    <Family name="Raanana">
+        <Font style="Regular" type="TTF" name="Raanana" localizedFamilyNames="øòððä" path="/System/Library/Fonts/Supplemental/Raanana.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Raanana Bold" localizedFamilyNames="øòððä" path="/System/Library/Fonts/Supplemental/Raanana.ttc" offset="284" />
+    </Family>
+    <Family name="Andale Mono">
+        <Font style="Regular" type="TTF" name="Andale Mono" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Andale Mono.ttf" offset="0" />
+    </Family>
+    <Family name="Gill Sans">
+        <Font style="Regular" type="TTF" name="Gill Sans" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/GillSans.ttc" offset="60" />
+        <Font style="Italic" type="TTF" name="Gill Sans Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/GillSans.ttc" offset="724" />
+        <Font style="Bold" type="TTF" name="Gill Sans Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/GillSans.ttc" offset="408" />
+        <Font style="Bold Italic" type="TTF" name="Gill Sans Bold Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/GillSans.ttc" offset="1040" />
+    </Family>
+    <Family name="Mishafi Gold">
+        <Font style="Regular" type="TTF" name="Mishafi Gold Regular" localizedFamilyNames="Mishafi Gold;مِصحفي ذهبي" path="/System/Library/Fonts/Supplemental/Mishafi Gold.ttf" offset="0" />
+    </Family>
+    <Family name="Herculanum">
+        <Font style="Regular" type="TTF" name="Herculanum" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Herculanum.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tai Viet">
+        <Font style="Regular" type="TTF" name="Noto Sans Tai Viet Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTaiViet-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Damascus">
+        <Font style="Regular" type="TTF" name="Damascus Regular" localizedFamilyNames="ڈیمسکس;दमिश्कश;دمشق" path="/System/Library/Fonts/Supplemental/Damascus.ttc" offset="64" />
+        <Font style="Bold" type="TTF" name="Damascus Bold" localizedFamilyNames="ڈیمسکس;दमिश्कश;دمشق" path="/System/Library/Fonts/Supplemental/Damascus.ttc" offset="2008" />
+    </Family>
+    <Family name=".Damascus PUA">
+        <Font style="Regular" type="TTF" name=".Damascus PUA" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Damascus.ttc" offset="396" />
+        <Font style="Bold" type="TTF" name=".Damascus PUA Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/Damascus.ttc" offset="2340" />
+    </Family>
+    <Family name="Waseem">
+        <Font style="Regular" type="TTF" name="Waseem Regular" localizedFamilyNames="Waseem;وسيم" path="/System/Library/Fonts/Supplemental/Waseem.ttc" offset="32" />
+    </Family>
+    <Family name="Noto Sans ImpAramaic">
+        <Font style="Regular" type="TTF" name="Noto Sans Imperial Aramaic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansImperialAramaic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="STIXIntegralsD">
+        <Font style="Regular" type="TTF" name="STIXIntegralsD-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntDReg.otf" offset="0" />
+        <Font style="Bold" type="TTF" name="STIXIntegralsD-Bold" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXIntDBol.otf" offset="0" />
+    </Family>
+    <Family name="PT Serif Caption">
+        <Font style="Regular" type="TTF" name="PT Serif Caption" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerifCaption.ttc" offset="32" />
+        <Font style="Italic" type="TTF" name="PT Serif Caption Italic" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/PTSerifCaption.ttc" offset="332" />
+    </Family>
+    <Family name="Noto Sans Brahmi">
+        <Font style="Regular" type="TTF" name="Noto Sans Brahmi Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansBrahmi-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Coptic">
+        <Font style="Regular" type="TTF" name="Noto Sans Coptic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="STIXSizeFiveSym">
+        <Font style="Regular" type="TTF" name="STIXSizeFiveSym-Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/STIXSizFiveSymReg.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Tifinagh">
+        <Font style="Regular" type="TTF" name="Noto Sans Tifinagh Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTifinagh-Regular.otf" offset="0" />
+    </Family>
+    <Family name="Noto Sans Old Turkic">
+        <Font style="Regular" type="TTF" name="Noto Sans Old Turkic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldTurkic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="SignPainter-HouseScript">
+        <Font style="Regular" type="TTF" name="SignPainter-HouseScript" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/SignPainter.ttc" offset="32" />
+    </Family>
+    <Family name="Oriya Sangam MN">
+        <Font style="Regular" type="TTF" name="Oriya Sangam MN" localizedFamilyNames="उड़िया संग एमएन;ଓରିୟା ସଙ୍ଗମ ଏମ୍ଏନ୍" path="/System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc" offset="32" />
+        <Font style="Bold" type="TTF" name="Oriya Sangam MN Bold" localizedFamilyNames="उड़िया संग एमएन;ଓରିୟା ସଙ୍ଗମ ଏମ୍ଏନ୍" path="/System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans Mongolian">
+        <Font style="Regular" type="TTF" name="Noto Sans Mongolian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMongolian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Shree Devanagari 714">
+        <Font style="Regular" type="TTF" name="Shree Devanagari 714" localizedFamilyNames="Shree Devanagari 714;श्री देवनागरी 714;श्री देवनागरी 714" path="/System/Library/Fonts/Supplemental/Shree714.ttc" offset="40" />
+        <Font style="Italic" type="TTF" name="Shree Devanagari 714 Italic" localizedFamilyNames="Shree Devanagari 714;श्री देवनागरी 714;श्री देवनागरी 714" path="/System/Library/Fonts/Supplemental/Shree714.ttc" offset="672" />
+        <Font style="Bold" type="TTF" name="Shree Devanagari 714 Bold" localizedFamilyNames="Shree Devanagari 714;श्री देवनागरी 714;श्री देवनागरी 714" path="/System/Library/Fonts/Supplemental/Shree714.ttc" offset="356" />
+        <Font style="Bold Italic" type="TTF" name="Shree Devanagari 714 Bold Italic" localizedFamilyNames="Shree Devanagari 714;श्री देवनागरी 714;श्री देवनागरी 714" path="/System/Library/Fonts/Supplemental/Shree714.ttc" offset="988" />
+    </Family>
+    <Family name="Noto Sans Old Permic">
+        <Font style="Regular" type="TTF" name="Noto Sans Old Permic Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldPermic-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Songti SC">
+        <Font style="Black" type="TTF" name="Songti SC Black" localizedFamilyNames="宋體-簡;宋体-简" path="/System/Library/Fonts/Supplemental/Songti.ttc" offset="56" />
+        <Font style="Bold" type="TTF" name="Songti SC Bold" localizedFamilyNames="宋體-簡;宋体-简" path="/System/Library/Fonts/Supplemental/Songti.ttc" offset="276" />
+    </Family>
+    <Family name="Songti TC">
+        <Font style="Light" type="TTF" name="Songti TC Light" localizedFamilyNames="宋體-繁;宋体-繁" path="/System/Library/Fonts/Supplemental/Songti.ttc" offset="1284" />
+        <Font style="Bold" type="TTF" name="Songti TC Bold" localizedFamilyNames="宋體-繁;宋体-繁" path="/System/Library/Fonts/Supplemental/Songti.ttc" offset="528" />
+    </Family>
+    <Family name="STSong">
+        <Font style="Regular" type="TTF" name="STSong" localizedFamilyNames="»ªÎÄËÎÌå" path="/System/Library/Fonts/Supplemental/Songti.ttc" offset="1032" />
+    </Family>
+    <Family name="Noto Sans Tai Tham">
+        <Font style="Regular" type="TTF" name="Noto Sans Tai Tham" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansTaiTham-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans MeeteiMayek">
+        <Font style="Regular" type="TTF" name="Noto Sans Meetei Mayek Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansMeeteiMayek-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="Noto Sans OldNorArab">
+        <Font style="Regular" type="TTF" name="Noto Sans Old North Arabian Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOldNorthArabian-Regular.ttf" offset="0" />
+    </Family>
+    <Family name="DecoType Naskh">
+        <Font style="Regular" type="TTF" name="DecoType Naskh Regular" localizedFamilyNames="DecoType Naskh;نسخ" path="/System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc" offset="32" />
+    </Family>
+    <Family name=".DecoType Naskh PUA">
+        <Font style="Regular" type="TTF" name=".DecoType Naskh PUA" localizedFamilyNames=".DecoType Naskh PUA" path="/System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc" offset="364" />
+    </Family>
+    <Family name="Noto Sans Osmanya">
+        <Font style="Regular" type="TTF" name="Noto Sans Osmanya Regular" localizedFamilyNames="" path="/System/Library/Fonts/Supplemental/NotoSansOsmanya-Regular.ttf" offset="0" />
+    </Family>
+</FontFamilies>
